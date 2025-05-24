@@ -1,5 +1,3 @@
-# STIG_Implementation_Remediation_Validations
-STIG_Implementation_Remediation_Validations
 # 🛡️ Unified STIG Implementation Framework – Bharath Devulapalli (VBDev)
 
 > “Hardening is not a task — it’s a discipline. Every control prevents a disaster.”  
