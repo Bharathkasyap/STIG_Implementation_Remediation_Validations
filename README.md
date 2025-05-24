@@ -8,17 +8,18 @@
 ## 🎯 Overview
 
 This repository showcases practical Security Technical Implementation Guide (STIG) scripts built for both **Windows 10** and **Linux (RHEL/CentOS 7)** environments.  
-Each script performs:
-- ✅ **Validation** of system configuration
-- 🔧 **Remediation** if non-compliant
-- 🧪 **Logging** for confirmation
 
 <h3>🛡️ STIGs in Motion: Proactive Defense Against Real-World Attacks</h3>
 
 <p align="center">
-  <img src="./source/STIGS.png" alt="STIGs in Action" title="STIGs in Motion: Proactive Defense Against Real-World Attacks" width="500" height="500">
+  <img src="./source/STIGS.png" alt="STIGs in Action" title="STIGs in Motion: Proactive Defense Against Real-World Attacks" width="750" height="500">
 </p>
 
+Each script performs:
+- ✅ **Validation** of system configuration
+- 🔧 **Remediation** if non-compliant
+- 🧪 **Logging** for confirmation
+  
 Built from hands-on lab environments using DISA STIG policies and Tenable/Nessus scans, this repo demonstrates practical hardening that aligns with MITRE ATT&CK and enterprise security needs.
 
 ---
