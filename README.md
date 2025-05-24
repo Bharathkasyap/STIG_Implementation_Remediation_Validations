@@ -5,15 +5,15 @@
 
 ---
 
-## 🎯 Overview
-
-This repository showcases practical Security Technical Implementation Guide (STIG) scripts built for both **Windows 10** and **Linux (RHEL/CentOS 7)** environments.  
-
-<h3 align=center>🛡️ STIGs in Motion: Proactive Defense Against Real-World Attacks</h3>
-
 <p align="center">
   <img src="./source/STIGS.png" alt="STIGs in Action" title="STIGs in Motion: Proactive Defense Against Real-World Attacks" width="650" height="450">
 </p>
+
+<h3 align=center>🛡️ STIGs in Motion: Proactive Defense Against Real-World Attacks</h3>
+
+## 🎯 Overview
+
+This repository showcases practical Security Technical Implementation Guide (STIG) scripts built for both **Windows 10** and **Linux (RHEL/CentOS 7)** environments.  
 
 Each script performs:
 - ✅ **Validation** of system configuration
