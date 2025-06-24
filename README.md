@@ -1,4 +1,4 @@
-# 🛡️ STIG Hardening Framework by Bharath Devulapalli (VBDev)
+# 🛡️ STIG Hardening Framework for defending against Real World Cases
 
 > “STIG compliance is not just a checkbox — it's a mindset of proactive defense.”  
 > — *Bharath Devulapalli, Security Analyst & STIG Automation Specialist*
